@@ -1,1 +1,1 @@
-web: gunicorn poetry_memo:app --log-file -
+web: gunicorn --bind 0.0.0.0:$PORT poetry_memo:app
