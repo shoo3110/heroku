@@ -6,7 +6,7 @@ authors = ["saitoshoichi <shoot319@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
-django = "2.2.8"
+django = "2.2.24"
 requests = "^2.23.0"
 flask = "^1.1.2"
 gunicorn = "^20.0.4"
